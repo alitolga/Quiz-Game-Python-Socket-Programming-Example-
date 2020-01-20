@@ -1,0 +1,108 @@
+{
+  "questions": [
+    {
+      "question": "When Gmail first launched, how much storage did it provide for your email?",
+      "answers": [
+        "1GB",
+        "Unlimited",
+        "5GB",
+        "512MB"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "HTML is what type of language?",
+      "answers": [
+        "Scripting Language",
+        "Programming Language",
+        "Macro Language",
+        "Markup Language"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "questions": [
+        {
+          "question": "The client in socket programming must know which information?",
+          "answers": [
+            "IP address of Server",
+            "Port number",
+            "Both IP address of Server & Port number",
+            "None of the mentioned"
+          ],
+          "correct_answer": 2
+        },
+      {
+          "question": "The first line of HTTP request message is called",
+          "answers": [
+            "Request line",
+            "Header line",
+            "Status line",
+            "Entity line"
+          ],
+          "correct_answer": 0
+        },
+      {
+          "question": "Which method is used when body is empty",
+          "answers": [
+            "POST",
+            "PUT",
+            "SEND",
+            "GET"
+          ],
+          "correct_answer": 3
+        },
+        {
+          "question": "Which is a mail access protocol?",
+          "answers": [
+            "NNTP",
+            "SMTP",
+            "FTP",
+            "POP3"
+          ],
+          "correct_answer": 3
+        },
+        {
+          "question": "What does TCP stand for?",
+          "answers": [
+            "Transfer Control Protocol",
+            "Transmission Control Protocol",
+            "Transmission Central Protocol",
+            "Transfer Cable Port"
+          ],
+          "correct_answer": 1
+        },
+        {
+          "question": "Which layer is not in the TCP/IP model of Internet Protocol Stack?",
+          "answers": [
+            "Application",
+            "Network",
+            "Session",
+            "Transport"
+          ],
+          "correct_answer": 2
+        },
+      {
+          "question": "Which of the following is false with respect to UDP",
+          "answers": [
+            "Connection-oriented",
+            "Unreliable",
+            "Transport layer protocol",
+            "All of the mentioned"
+          ],
+          "correct_answer": 0
+        },
+      {
+          "question": "Suppose a TCP connection is transferring a file of 1000 bytes. The first byte is numbered 10001. What is the sequence number of the segment if all data is sent in only one segment.",
+          "answers": [
+            "10000",
+            "10001",
+            "12001",
+            "11001"
+          ],
+          "correct_answer": 1
+        }
+      ]
+    }
+  ]
+}
